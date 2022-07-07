@@ -1,0 +1,23 @@
+1. Ans:
+Values are:'hello',-87.8,6 & Expressions are:*,-,/,+.
+
+2.Ans: A varible can take any value that may be an number, character, string etc. while a string can take only charcter type.
+
+3. Ans: Three Data Types are:
+1. Text Type:  String Type, can take character values.
+2. Numeric Type: Intrger, Float, complex etc.
+3. Boolean type: Bool Type, can take only two values true & False.
+
+4. Ans: Expressions made up of operators & operend, It can be part of a statement.
+	Expressions are used to calculate a value as per value of operators and precedence of operators.
+
+5.Ans: The main difference between an expression can be a part of a  of statement but a statement can't be a part of a expression. Expressions are used to calculate a value as per value of operators and precedence of operators.But statement have some inherent meaning, can't be evaluated with operators and operend.
+
+6. Ans:22
+7. Ans: 'spam'+'spamspam'='spamspamspam'
+	 3*'spamspam'='spamspamspamspamspamspam'
+8. Ans: Because 100 is a interger constant and egg is a string which can take any varible name.
+9. Ans: int,float & str respectively.
+10. Ans:'I have eaten'+ str(99) + 'burritos.'
+
+
